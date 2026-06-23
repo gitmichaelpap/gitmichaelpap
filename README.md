@@ -29,7 +29,7 @@
 
 I'm **Michael Pacheco**, a **Full-Stack Software Engineer** with **5+ years** building web, mobile, backend, and **AI-powered** products for complex, mission-critical environments.
 
-🧠 Right now I'm building **[Jus IA](https://www.jusbrasil.com.br/)** at **Jusbrasil** — a generative-AI legal assistant — pairing **React / Next.js** product engineering with **TypeScript agentic services**: AI agents, tools, workflows, RAG, vector search, and document processing.
+🧠 Right now I'm building **[Jus IA](https://ia.jusbrasil.com.br/)** at **[Jusbrasil](https://www.jusbrasil.com.br/)** — a generative-AI legal assistant — pairing **React / Next.js** product engineering with **TypeScript agentic services**: AI agents, tools, workflows, RAG, vector search, and document processing.
 
 - 🔭 **Focus:** AI Product Engineering · Real-time systems · Offline-first resilience · Legacy modernization
 - 🛰️ **Background:** mission-critical broadcast at Globo, plus energy & environmental platforms
