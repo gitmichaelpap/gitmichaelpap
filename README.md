@@ -86,7 +86,7 @@ I'm **Michael Pacheco**, a **Full-Stack Software Engineer** with **5+ years** bu
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gitmichaelpap&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="Michael's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=gitmichaelpap&show_icons=true&hide_border=true&theme=tokyonight" alt="Michael's GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitmichaelpap&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages" />
 
 <br/>
